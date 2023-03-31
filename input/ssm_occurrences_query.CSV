@@ -1,0 +1,426 @@
+case.case_id,case.demographic.gender,case.demographic.vital_status,case.demographic.year_of_birth,case.demographic.year_of_death,case.diagnoses.0.age_at_diagnosis,case.diagnoses.0.days_to_recurrence,case.diagnoses.0.primary_diagnosis,case.diagnoses.0.site_of_resection_or_biopsy,case.diagnoses.0.tumor_grade,case.project.project_id,id,ssm.genomic_dna_change
+a1192df3-7667-4d1e-a1a0-79f6cc827dcf,male,Alive,1976,,11509,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,299a0097-542b-5145-a03b-a2d4b9d6959c,chr2:g.208248388C>T
+6355cade-7b3a-43a8-9f1f-8e7bc45755a8,male,Dead,1963,1998,11584,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,b8a28d8d-dc5c-53f4-95d2-28ea35eb63b0,chr2:g.208248388C>T
+607b1f22-b744-43c5-91f7-fc69142ba30e,male,Alive,1974,,14022,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,69c79c57-97c5-5850-a266-ef48db2c6c0a,chr2:g.208248388C>T
+fc3b7596-f515-446f-81db-fed0154ca2c5,female,Alive,1964,,17432,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,49d23c33-8410-5772-8416-3a414a52ac59,chr2:g.208248388C>T
+44a5c3b4-62a7-407b-b492-7069e1a43a26,male,Dead,1960,2003,14212,,"Astrocytoma, anaplastic","Brain, NOS",not reported,TCGA-LGG,5e42e587-2b94-57d6-b587-3c90a79b06be,chr2:g.208248388C>T
+106709ec-72df-44f0-8c71-87b7c755f8f0,male,Alive,1971,,15051,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,bf60c9ad-5035-5b7f-b007-344cabeb1d43,chr2:g.208248388C>T
+b2b57e93-2722-4546-9a0b-20155b86edef,male,Dead,1983,,11014,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,bbac3393-5b23-5e40-bde5-e5970f4134a1,chr2:g.208248388C>T
+2d42dd0e-be3a-46ae-a635-c6f9c52f9fa2,male,Alive,1981,,10624,,Mixed glioma,"Brain, NOS",not reported,TCGA-LGG,265ed22d-64e6-5b07-82eb-ce314482f958,chr2:g.208248388C>T
+0073a136-d5f4-4fd6-88f9-711768f2abc6,female,Alive,1969,,16334,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,3f29bd84-0dfa-56e1-8706-5afd0b44836e,chr2:g.208248388C>T
+5a3edeb6-133e-4116-9f80-2485bd70754d,male,Alive,1982,,10167,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,3ef30686-8498-56c4-971a-3bce5fbe805b,chr2:g.208248388C>T
+6d2c49c3-0721-4bd2-b39f-7872f2de996d,male,Alive,1970,,12488,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,38f002bc-1025-5a64-adf7-4cb41754ae7c,chr2:g.208248388C>T
+448d3e3b-622c-4e79-bb1d-b5f2e92970e8,female,Alive,1987,,6857,,Mixed glioma,"Brain, NOS",not reported,TCGA-LGG,1ea21219-5b7a-56b8-a90d-1af9634197ab,chr2:g.208248389G>C
+04e6e843-7f31-43da-b111-280ce2bd1949,male,Dead,1968,,13108,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,9b9238ac-5729-585b-bc84-4f607c391ed3,chr2:g.208248388C>T
+dd7b23a7-b41b-4670-9fc8-78895fb00cff,female,Alive,1981,,11305,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,ad6f39c3-5139-5a1f-834a-56bc376a38c7,chr2:g.208248388C>T
+230f5fa7-aa36-41ea-b40b-08f520767bd5,female,Dead,1962,2009,16297,,"Astrocytoma, anaplastic","Brain, NOS",not reported,TCGA-LGG,20f3fc45-2c2d-51ab-a72f-40d5f87c84dd,chr2:g.208248388C>T
+c3c41fd2-f0d7-4f46-9e18-cce4626538c2,male,Alive,1970,,15092,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,88f0bb1b-8cab-5a03-8baf-062dcacc3152,chr2:g.208248388C>T
+48607130-c09a-491d-882f-7d2591d13182,female,Alive,1966,,15986,,Mixed glioma,"Brain, NOS",not reported,TCGA-LGG,ea05ed9b-b121-5577-8162-4bb84a7188ad,chr2:g.208248388C>T
+36615695-921c-4c8a-93d6-6c788079beae,female,Alive,1973,,14617,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,9a41ab50-bfce-5147-96b1-28227837df40,chr2:g.208248388C>T
+723cad09-aa2d-4492-b19d-661b310e1c58,male,Alive,1979,,12460,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,b4eeac07-18ca-55d4-b512-e052671de0ec,chr2:g.208248389G>C
+172701cf-709b-4e8f-b2fa-e2690a9e272d,male,Alive,1967,,16470,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,b914f013-85cd-5c45-9e28-0fac84885692,chr2:g.208248388C>T
+e17a6048-7a72-42c0-ad3f-97cbff02bc9f,male,Dead,1949,2011,22257,,Glioblastoma,"Brain, NOS",not reported,TCGA-GBM,8025b241-aa2c-5ae6-8f3b-914fb0481245,chr2:g.208248388C>T
+febe2ce5-737b-43b8-bc70-4194fe3ed5fb,female,Alive,1968,,16310,,Mixed glioma,Parietal lobe,not reported,TCGA-LGG,037ae5c6-411b-5949-ba6a-66e9d37b309c,chr2:g.208248388C>T
+40587b69-0f62-4a2a-88cb-1bd711377f19,female,Alive,1970,,15066,,"Astrocytoma, anaplastic",Frontal lobe,not reported,TCGA-LGG,43c05af6-f088-5ba6-9c96-fc0b8866244a,chr2:g.208248389G>A
+94b95c07-5f70-4a1b-b40f-dc13f6a160d5,male,Alive,1973,,14422,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,06b3f344-19c0-55fa-9212-6207cd379c51,chr2:g.208248388C>T
+a5e10e2e-5157-487b-88dc-6c70ad5e244a,female,Alive,1990,,8271,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,da53be2f-4ab1-5b3d-897c-e348ddb8f46a,chr2:g.208248389G>A
+f5416dc4-d161-4776-9827-e4ceaf42d19f,female,Alive,1971,,14603,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,3dc26c5f-a178-5e47-906a-0bd042a644cd,chr2:g.208248388C>T
+1bff1e07-4923-43d5-b2d3-cb46b6568eed,male,Alive,1978,,11741,,"Astrocytoma, anaplastic",Temporal lobe,not reported,TCGA-LGG,da64178a-2fc5-5b52-8dd3-477954136dd6,chr2:g.208248389G>A
+e8d3d888-e5fc-4469-ad0b-2c1df6e04790,male,Alive,1969,,14418,,"Astrocytoma, anaplastic","Brain, NOS",not reported,TCGA-LGG,7343ef42-d158-55d5-b6a2-4e4350dbc5a6,chr2:g.208248388C>T
+f62be2b8-88c4-4a7e-8c80-8176fb5f6c56,male,Alive,1974,,13506,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,1daf049d-e107-565c-b4f8-cba9fd6a2af7,chr2:g.208248389G>C
+71ec4c84-4aef-4c1f-ab07-dc264c5c0602,male,Alive,1982,,11221,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,fac66f05-f73f-5f84-986c-7910abde026c,chr2:g.208248388C>T
+04d56bed-98fb-45eb-8c90-95e69264dfe2,male,Alive,1987,,8820,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,99021db3-f0f0-5767-baf8-ea1c2ca6b4a0,chr2:g.208248388C>T
+0906ddde-02fa-417d-927b-1c400b189cac,male,Alive,1975,,13198,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,6eda94cc-d763-5963-a36e-61adfcb41282,chr2:g.208248388C>T
+992452ee-8d9f-406b-9708-7bcb60062743,male,Dead,1950,2001,16770,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,19294de1-9330-5713-979d-959e307d9e78,chr2:g.208248388C>T
+505e9812-d13e-42d3-aee2-55a85d6f4551,female,Alive,1975,,14073,,"Oligodendroglioma, anaplastic","Brain, NOS",not reported,TCGA-LGG,959bef1f-4852-50e7-b419-0a2bef66c38d,chr2:g.208248388C>T
+49a87025-d0a4-44b3-b6ad-563bf9651093,male,Alive,1948,,21930,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,4af2bdc7-49b3-5b4e-bc9c-eb0cd5f14235,chr2:g.208248388C>T
+c05f9e21-b8fa-4537-9ae7-39d6fc9d7933,male,Alive,1979,,11823,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,20b4fa9f-ef38-5a3e-93d0-e6295a42ee06,chr2:g.208248388C>T
+fee2114e-f723-4374-91f8-f1dcc6b3eaee,male,Dead,1974,,13611,,"Oligodendroglioma, anaplastic","Brain, NOS",not reported,TCGA-LGG,c6c9e166-4d83-59a5-a14d-2adb48a04909,chr2:g.208248389G>T
+5b199e7e-cc23-4065-88ad-fdfe3d0683d6,female,Alive,1961,,18415,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,63c871d2-08f3-54d5-9f61-7fdd1ebd6db0,chr2:g.208248388C>T
+6b225409-09c0-4a51-8f42-8fefe3855c4d,male,Alive,1970,,13892,,"Oligodendroglioma, NOS","Brain, NOS",not reported,TCGA-LGG,17af0e81-ac1f-534a-9643-b6f7f5e4e906,chr2:g.208248388C>T
+e669a4b7-a494-490a-b78c-e664c59d0697,female,Dead,1968,2010,13753,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,86e120d1-b90f-5ec4-a5df-5eab43f21164,chr2:g.208248388C>T
+432fe4a9-2cdc-4323-aff0-59e2fdeda194,male,Alive,1965,,17025,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,faa2cee3-aaa2-5b79-b20b-de8762d62661,chr2:g.208248388C>T
+ae61a71e-53a1-4884-a4a6-729744d1c309,male,Alive,1982,,11195,,Mixed glioma,Temporal lobe,not reported,TCGA-LGG,14999fb1-3e0b-54a6-937c-ed9af30f016f,chr2:g.208248388C>T
+b342e980-8383-4f1b-bf57-4098c37a536c,male,Alive,1963,,17843,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,1808b59e-05de-5ee6-9f25-bac4d76379e0,chr2:g.208248388C>T
+a418fe65-dfdd-4c84-b27c-b4567b50f457,female,Alive,1975,,13961,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,d9d2c949-f517-5876-b6f0-5473f1b55d78,chr2:g.208248388C>T
+2f8c789e-bbd8-4753-a48b-6894c21162f8,male,Alive,1981,,10742,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,5418998e-3a8e-5c6b-ae78-e2f95ea4e60d,chr2:g.208248389G>C
+60b30a95-3e4c-413a-9de6-16a5bca163c4,male,Alive,1968,,16066,,"Oligodendroglioma, anaplastic","Brain, NOS",not reported,TCGA-LGG,732ff9aa-4963-5cf5-a95a-1dbd45107459,chr2:g.208248388C>T
+887def39-e212-490d-8849-2bc932fceff0,female,Alive,1981,,11637,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,624602b5-df9e-5341-b190-f313f252431d,chr2:g.208248388C>T
+5f853a88-811d-4eb4-914e-d90862c5d2a2,female,Alive,1958,,20241,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,3bb32c79-ce88-5a57-8466-aac4df396afc,chr2:g.208248388C>T
+799e9106-e62e-4681-8861-137f474ee8b8,male,Alive,1987,,7946,,"Oligodendroglioma, NOS","Brain, NOS",not reported,TCGA-LGG,72c0931d-3916-51e8-8e3d-91e72c8570c0,chr2:g.208248388C>T
+ec82a00f-3909-4781-8ae2-e54cbc1ac7ac,female,Alive,1963,,15041,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,963d1e10-8cde-598c-b7b8-ec364959da23,chr2:g.208248388C>T
+467a7e6a-8cba-4ef1-8afd-6c8eaccbc3df,male,Alive,1954,,20567,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,041515d7-0c4a-56f3-bd8e-b88b01830578,chr2:g.208248388C>T
+d81b9957-8c82-4006-b111-449fa9fb95ed,female,Alive,1961,,19142,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,fd204771-755b-5267-8d52-1594917dd8a0,chr2:g.208248388C>T
+5e2539e0-2088-43df-ad2a-f854d8bb6d30,male,Dead,1936,2008,26159,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,c5754881-0b61-5c6c-ba58-1e596bcd8e08,chr2:g.208248388C>T
+41fbb9f1-4a13-48ab-8649-0608c89cdd9f,female,Alive,1964,,17800,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,5b6d26bf-2858-5655-984a-c3f10d05ba46,chr2:g.208248388C>T
+bbfb5399-8d43-4b75-bf90-23ec142697d7,male,Alive,1970,,13371,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,b027b3ef-40bf-5c0e-b3ef-35d49305f38c,chr2:g.208248388C>T
+274496d6-0a9b-45ca-876f-b91f7277963c,female,Alive,1961,,18799,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,2aa68270-04ee-5ada-9ed7-20ef62f5a591,chr2:g.208248388C>T
+1a20f675-d9bb-48b0-a49f-d52270bd8973,male,Alive,1980,,12393,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,5cfa9768-7954-5dc7-b567-12d1defaac73,chr2:g.208248388C>T
+14375753-a69f-41e0-b910-2bb8e84cc43a,female,Dead,1975,2007,8752,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,566b339d-679c-51b2-80fd-de89638c8a44,chr2:g.208248388C>T
+ba62b5eb-e169-4b41-b949-e004d66e98a1,female,Alive,1977,,13338,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,60448512-442a-51e4-994c-e38311c45bf0,chr2:g.208248388C>T
+e09f93e1-1649-48fa-9e2e-d13ac6d50b97,male,Alive,1955,,19818,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,028d83e6-871d-573f-96d1-a2f676d882ff,chr2:g.208248388C>T
+cdd1fd4c-3427-496c-8391-4aeb6730d3cc,male,Alive,1957,,19991,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,2eab598a-1f19-5007-9854-6fe57ceeead7,chr2:g.208248388C>T
+d58b535a-6c95-43bb-ad88-0600e6447537,female,Alive,1951,,21331,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,27260c31-dc42-5581-b54b-1c0084077a94,chr2:g.208248388C>T
+38dd826d-06dc-4a73-b852-c3d78c9c3ff4,male,Dead,1974,2006,11329,,Glioblastoma,"Brain, NOS",not reported,TCGA-GBM,bed14f4e-9bbb-53d2-9bb9-e35689926248,chr2:g.208248388C>T
+618f2aa7-d1b6-430d-a157-d3d956edefbe,female,Alive,1979,,12403,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,c65243dc-ed02-5015-be21-56e79ff5f104,chr2:g.208248388C>T
+4240c137-ee3a-474c-9426-470380cb41a2,male,Alive,1981,,11043,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,1065bcc4-96bb-5da8-aa29-6d0fd4e5b4a2,chr2:g.208248388C>T
+7eb5d055-e1c8-4b93-9205-a49a6e79dfd4,male,Alive,1979,,12157,,"Oligodendroglioma, NOS","Brain, NOS",not reported,TCGA-LGG,654b8570-8935-5d7b-b489-dfb0ca1ea04e,chr2:g.208248388C>T
+bae316e3-1fa4-4fa7-8ad6-a458857a85d4,male,Alive,1957,,19555,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,e32b397f-67a5-5133-86eb-0a151c90d5dd,chr2:g.208248388C>T
+135a149a-d153-465e-aa58-06d47bb18e00,female,Dead,1968,2012,15629,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,2d70aa36-c857-51cf-901f-9d8c590ac135,chr2:g.208248388C>T
+691d5202-90cc-4e08-83a3-0620a89d3a4b,male,Dead,1957,2002,15481,,"Astrocytoma, anaplastic","Brain, NOS",not reported,TCGA-LGG,c7a3c4fb-63fe-5589-92c1-fc04d44b7dd0,chr2:g.208248388C>T
+010aac75-3bfe-4bf2-b866-af0f2d92f125,male,Alive,1990,,6480,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,2b098caf-6dd5-5df9-a0d8-fdd5a372fba1,chr2:g.208248388C>T
+f842f756-ce78-4c99-bcf8-3bce18a4d9ef,female,Dead,1969,2003,11971,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,fe36779b-20f3-5356-8a21-c7ff2a8274b8,chr2:g.208248388C>T
+44553e34-5111-40a8-b76a-254751be3f87,female,Alive,1987,,9172,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,10b21d40-d72e-552a-8b65-eb56a8d63912,chr2:g.208248388C>T
+dd163547-43ad-4fe4-873e-83c4c6be4465,male,Alive,1970,,15650,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,eda3e857-7e7e-5715-ae09-8a59ce6cba29,chr2:g.208248388C>T
+d209cffc-fe21-4ae7-b610-e5668ea84a3b,female,Alive,1957,,20771,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,e9e84f13-101d-5148-a528-fc0b843d8885,chr2:g.208248388C>T
+6d02e00c-56a5-4433-9930-f036e2aa39aa,female,Alive,1992,,7612,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,2ee0e8ff-ff6f-5d53-9693-e5e1b6827e8c,chr2:g.208248388C>T
+d62d871b-4612-4bf4-b53c-9dd431e507a0,male,Alive,1960,,19234,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,ce22c882-7105-548e-b221-33ec0fb6b9b9,chr2:g.208248388C>T
+55c78413-d102-4113-930e-6d842862fe75,female,Alive,1970,,14802,,Mixed glioma,"Brain, NOS",not reported,TCGA-LGG,3dfacc6d-17ab-5e3e-992e-5a45e90687c9,chr2:g.208248388C>T
+e326c1dd-2ef8-431b-a657-440aa3f35ff3,female,Alive,1961,,18234,,Mixed glioma,"Brain, NOS",not reported,TCGA-LGG,c88dfb56-8e6a-59c5-b8e8-bc5839a3882d,chr2:g.208248388C>T
+1aa6b9ff-7c97-47d9-923f-2bd83f20e531,male,Alive,1977,,12851,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,1c4d04df-bbb0-5066-9fd2-9d47982f9c19,chr2:g.208248388C>T
+0bde34dd-dae9-4533-98ef-f5a61a11e7c4,female,Alive,1938,,26904,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,35926ab3-54ae-5ae0-8f8a-43700b177d13,chr2:g.208248388C>T
+975c76cd-f88a-4d88-93a4-fbf2cb9e2e3b,male,Alive,1979,,11810,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,dc808afc-14ce-5ac0-b611-ed6d893bb2bc,chr2:g.208248388C>T
+b7395082-415b-4ab3-bf1e-59d0f4e4b488,female,Alive,1978,,10342,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,fb2896cb-8f94-51a4-97ff-8362b47f2cbf,chr2:g.208248388C>T
+5ccd86ab-2587-4f35-b96a-4f4320b10fb9,female,Alive,1958,,19710,,Mixed glioma,Frontal lobe,not reported,TCGA-LGG,ccc0036f-9ca3-54d5-bed3-d27d6bbd20c2,chr2:g.208248388C>T
+81fb338f-1023-49aa-ac0f-ba763a6cd68c,female,Alive,1985,,9539,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,32bd9963-ba11-5fd6-be71-2c15e06dac3b,chr2:g.208248388C>T
+c16d9f69-26f9-4ec7-b2d5-ff9f7dacfe0f,female,Alive,1959,,18977,,"Astrocytoma, anaplastic","Brain, NOS",not reported,TCGA-LGG,83707fff-b860-5821-a360-c78f42b4596e,chr2:g.208248388C>T
+e661e157-c6bc-4024-9905-97954759aad6,female,Alive,1969,,16161,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,88eb5174-76bd-59b4-bf28-1e48da9baf74,chr2:g.208248388C>T
+5017c115-39b8-4c5c-8be6-2cb298d7c641,female,Alive,1980,,10827,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,01002cbc-5feb-5e3d-b17e-1a9a3fbeb3ef,chr2:g.208248388C>T
+4289a50b-c6be-495e-9826-53aeb67b6a22,female,Alive,1990,,8508,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,344601a5-a519-5f49-a475-cfd1b1e0df56,chr2:g.208248388C>T
+cc451e2a-fa85-42d7-b7af-9fc0166945fa,female,Alive,1966,,16512,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,756aed76-42d2-5643-a324-5a61dc4f8c2c,chr2:g.208248388C>T
+3e4851ca-4d69-4035-a2dd-8ed6e70f1ffb,male,Alive,1950,,21231,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,7a9298a5-daef-5a95-9d50-bcb38f3fe53e,chr2:g.208248388C>T
+8e2dcc00-9f7e-4dee-b24d-43c8b30294c5,male,Dead,1964,2002,12245,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,8b26e9a6-0eff-5061-8822-cb742e0f7ea0,chr2:g.208248388C>T
+82ff7a48-ea97-476e-9f4e-aacdeb6659bd,male,Alive,1973,,14375,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,d5937880-e670-57e1-ab3a-ea78dfa7b5c4,chr2:g.208248389G>A
+12f02422-585d-4068-bbde-bc279c6a89ab,male,Alive,1972,,14936,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,cb0b3125-f646-5ccf-b166-fb4c7f9135c8,chr2:g.208248388C>T
+8d06226e-500b-4172-ae96-c674913909e6,male,Alive,1964,,15589,,"Astrocytoma, NOS","Brain, NOS",not reported,TCGA-LGG,dacaa30c-40c5-5bd5-ae22-1b8bb9f371da,chr2:g.208248388C>T
+194e8231-e8d4-477f-8c62-e11f2484ecce,male,Alive,1988,,9345,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,df85afc8-ad98-5169-9a39-3983a9bca332,chr2:g.208248388C>T
+d43581a5-3d49-4263-862b-ca99d15ec03d,female,Alive,1977,,13222,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,8657c959-bfe8-5337-a3c2-6d1cb027b1d4,chr2:g.208248388C>T
+c371e2b4-209f-40f3-a30c-51df8270b5de,male,Alive,1982,,10805,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,b7fed729-d66a-5aad-8a03-864c96aa06ad,chr2:g.208248388C>T
+141f0546-f6f2-408f-ac86-07ca4aadf3d0,female,Alive,1949,,23482,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,2e5e9b18-e5b1-58fe-88d7-fd81bd79673e,chr2:g.208248388C>T
+001ad307-4ad3-4f1d-b2fc-efc032871c7e,male,Alive,1966,,17392,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,2e800265-f1d4-59a1-bdbc-1fc8101732ec,chr2:g.208248388C>T
+6105c037-90f1-42d9-ac38-6e2252999a64,male,Alive,1973,,14548,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,1b38384f-bcc8-58e8-930f-197802de5f37,chr2:g.208248388C>T
+288f6c7e-d96f-4be1-8312-77c67f75c467,male,Alive,1967,,16415,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,555f3146-a742-5526-a30c-9a3eb00bb057,chr2:g.208248388C>T
+7883e417-a793-4614-9528-6c2e9e44379f,female,Dead,1960,2006,16275,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,b9fffe40-3688-5666-af5d-f44ec86d8a4b,chr2:g.208248388C>T
+ae2db022-eb4f-4b65-89b6-9fd4439ddeef,male,Alive,1973,,12152,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,52fb2927-3464-5c92-8c60-c54b870b6789,chr2:g.208248388C>T
+cd69d509-a652-4257-a8d3-767296bbb4ec,male,Not Reported,1986,,9380,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,000b7901-90a3-5574-89d3-a8dc9206e1fd,chr2:g.208248388C>T
+1f2f3bf6-acdd-4a72-8c33-230de40910eb,male,Alive,1982,,11083,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,4c4f9a2f-d8a3-54fd-867c-b2373c56bf4c,chr2:g.208248388C>T
+c40ab957-fe46-43b1-992d-b4e2040a3f57,male,Alive,1960,,18084,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,d44d3860-ce77-5850-8740-c549044149e9,chr2:g.208248388C>T
+619e18c1-09b9-468c-816d-6789c0bef0a8,male,Alive,1976,,13227,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,3bec0dc0-8c4a-5d33-8ba9-27a4e2d523d8,chr2:g.208248388C>T
+14e6c57d-d78e-4660-a21f-4f90a4503080,female,Alive,1956,,21133,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,50b54c4a-f7cd-56de-b26a-2fd964c48688,chr2:g.208248388C>T
+33600812-1894-4471-a365-75ae4d990b72,male,Alive,1978,,12340,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,3b1f3675-f70b-5999-8880-845651ef00f1,chr2:g.208248388C>T
+55a67639-ed05-4143-af96-a377bc5489ee,male,Alive,1973,,13546,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,ce53bad4-7b3e-5c9a-8687-2f0a3c93ba94,chr2:g.208248388C>T
+427f4d23-2b76-4a2a-a498-0c3473f57169,female,Alive,1977,,13332,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,4d8f0d34-7d64-5f6d-a503-b722ea1c1f73,chr2:g.208248388C>T
+df22bc30-96e2-42de-9a39-2954db49841d,female,Dead,1947,,23936,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,fcf82051-e49a-5233-ac04-a3c9580d3924,chr2:g.208248388C>T
+9922de10-9280-44c0-b86f-6d1ca7e55bf2,female,Alive,1956,,20625,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,44f6d2a9-0009-5b77-b389-46640e62dd0d,chr2:g.208248388C>T
+85f77526-791e-47cd-904d-d1dbb49eaeab,male,Alive,1948,,21908,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,65198302-28c4-5a18-8754-013f173aa43e,chr2:g.208248388C>T
+ac3779f6-cc8b-428b-9531-03562a614515,female,Alive,1969,,16300,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,736b2d85-edaa-5257-9691-c9c22baa621d,chr2:g.208248388C>T
+bff37de3-dc68-4e69-bdfc-8b524dd7774f,male,Alive,1967,,14306,,"Oligodendroglioma, NOS","Brain, NOS",not reported,TCGA-LGG,e7098e30-37ab-5082-b393-effaa17e7475,chr2:g.208248388C>T
+688fc346-a14d-4859-8727-057cd0a0b880,male,Alive,1969,,14108,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,04406d95-4fbd-55d9-be9e-e09d4295e1c9,chr2:g.208248388C>T
+878ced76-3144-4141-896f-50e3e863df36,female,Alive,1958,,20128,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,aea5d969-0f25-5b21-aea7-a80ff27e9043,chr2:g.208248388C>T
+8839f236-bc04-416f-84d4-50f67fb338dc,female,Dead,1950,2013,22327,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,2b0b5d78-cb46-5e2c-bd3a-6e83a77f713b,chr2:g.208248388C>T
+a5f851c5-6130-4ea1-9f86-be59331a92f7,male,Dead,1966,2010,15900,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,88afce3e-9dee-5af2-9fa4-b72ec302adf3,chr2:g.208248388C>T
+8ed09a8a-3284-4a1b-b369-e25d2fab0f61,male,Alive,1984,,10253,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,ac08139c-b3a2-5338-95bd-08410b1308a6,chr2:g.208248388C>T
+76cb16f9-37be-450e-b60a-5f0d0f1ec2bc,female,Alive,1961,,19149,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,1f8643f2-adb2-54ba-bfc1-6492bbb72d5f,chr2:g.208248388C>T
+4839a058-fbca-44c7-bd61-81943b4d45d5,female,Alive,1982,,9447,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,75783d27-bbba-5055-955c-b77aa6c1fd47,chr2:g.208248388C>T
+722c172f-46e6-47a1-82e5-3207278df89b,female,Dead,1971,2010,9867,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,5c0da212-0512-5545-b0c4-0471c51040c5,chr2:g.208248388C>T
+cb041720-0efa-4eb6-a9a5-b6e138bb1a99,male,Alive,1986,,8817,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,9356fd15-ccb2-5160-84e8-70213e1ea1d7,chr2:g.208248389G>C
+a66a3847-7570-4486-8845-86b6125104a2,female,Alive,1961,,18494,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,2ee5703f-6504-5ad8-830d-80eea4681b2a,chr2:g.208248388C>T
+10887e42-444d-49fc-aee5-dd0e9fc4ea54,male,Alive,1967,,16163,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,10ac32ad-29e0-55a2-9d9b-3a136bc8b75b,chr2:g.208248388C>T
+ad202887-88b3-4e0f-a4c3-7e135d4cb258,male,Alive,1941,,25667,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,907e9d1b-d650-564c-9120-a8b20d778e0f,chr2:g.208248388C>T
+dbfaccb0-e8c0-48e8-9aef-570267574822,male,Alive,1982,,10306,,Mixed glioma,"Brain, NOS",not reported,TCGA-LGG,d8a963bf-2166-5b64-adab-6d66beb52570,chr2:g.208248388C>T
+8cba230b-46db-4d35-8123-3879eba32402,male,Alive,1988,,8340,,"Astrocytoma, anaplastic","Brain, NOS",not reported,TCGA-LGG,06da4578-af9c-5cf5-a4f9-609a68681e1b,chr2:g.208248389G>A
+4776b959-d5f5-41ad-ab39-dba6031f6884,male,Dead,1975,,12685,,Glioblastoma,"Brain, NOS",not reported,TCGA-GBM,c6883aca-5c54-51ae-bed8-602d05b42d2d,chr2:g.208248388C>T
+2d860614-b772-46e2-b1cd-43bb3ead7255,male,Alive,1980,,10476,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,2d59b1c8-a3e8-55fb-bd2d-7f401ce54895,chr2:g.208248388C>T
+ad80a042-c4b4-445c-9678-1c2614422684,male,Alive,1965,,17381,,"Astrocytoma, NOS",Frontal lobe,not reported,TCGA-LGG,9309e403-eac8-5363-81dc-3e6f7c5d7820,chr2:g.208248388C>T
+482d4078-7576-48cf-bf7c-29014935fd47,male,Alive,1972,,13968,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,b776e60a-b0ba-5752-bb0b-031e8662880b,chr2:g.208248388C>T
+083c0b78-88c2-4ec1-8a81-a0792b16e2cc,female,Alive,1953,,20558,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,9c22c1e9-2034-576a-b4b9-0df51380f0d8,chr2:g.208248388C>T
+42fe260f-520b-4fac-8c09-d2b31aed59fb,male,Dead,1978,,11666,,"Astrocytoma, anaplastic","Brain, NOS",not reported,TCGA-LGG,b83c3e01-2c45-585a-beb2-47b0792f9b91,chr2:g.208248388C>T
+10547ce0-4d20-406f-90e2-88dc483fe81f,male,Dead,1951,2017,24115,63.0,Glioblastoma,Frontal lobe,Not Reported,CPTAC-3,6b83b293-e6e7-5e56-83ac-14095c01b772,chr2:g.208239220G>C
+621424ec-67bc-4c42-b0ad-64c5654b5ad9,male,Alive,1978,,12417,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,6248bb5c-f82c-59fd-af36-d8c6ed214409,chr2:g.208248388C>T
+5eef573e-6a44-4dc7-8aa7-b136863ce910,male,Dead,1974,2005,10571,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,fbe1e75a-da9e-570c-a07c-9633d2f7493b,chr2:g.208248388C>T
+c6ceb220-282e-4eef-8d36-4ce0a625cf7e,female,Alive,1991,,7421,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,990b6ae3-07da-562a-b051-198f37b85c2d,chr2:g.208248388C>T
+dd85dbb2-31c3-4bc2-9dff-3bd27c79a9ad,male,Alive,1953,,19223,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,f0b243f8-c36f-53b2-91c0-106794fb2006,chr2:g.208248388C>T
+c29d73c0-c885-4105-bf74-38e9178e71c9,male,Alive,1965,,15950,,Glioblastoma,"Brain, NOS",not reported,TCGA-GBM,4c2ea275-02b3-5366-8717-cd6760a3538d,chr2:g.208248388C>T
+a0672f6f-6406-4d49-96d0-6afd571bbd00,female,Dead,1929,2003,26766,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,aedaca36-51fd-5317-92ef-cd7057c45fd3,chr2:g.208248388C>T
+70939245-41e0-4845-a473-5fef719b9828,female,Dead,1966,2008,13021,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,3548ecfe-5186-51e7-8f40-37f4654cd260,chr2:g.208248388C>T
+a5d3f3fb-6541-419d-b47e-720d438f1bff,female,Alive,1954,,20836,,"Oligodendroglioma, NOS","Brain, NOS",not reported,TCGA-LGG,584500b3-38d1-5da8-ad09-c9e14041b56e,chr2:g.208248388C>T
+da13446a-c4dc-4d02-80c8-410273925ac4,male,Alive,1953,,22275,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,721d1a42-4aaa-5044-a3b6-c95e87abdc96,chr2:g.208248388C>T
+325138ab-2947-4131-b40e-971f024723cc,male,Alive,1972,,12291,,"Oligodendroglioma, NOS","Brain, NOS",not reported,TCGA-LGG,23c8e2d4-06fc-5ee9-9ab4-3f70afadb700,chr2:g.208248388C>T
+ddfd76dc-15d6-4efc-85ea-31674161ebf3,female,Alive,1972,,13673,,Mixed glioma,"Brain, NOS",not reported,TCGA-LGG,63498352-b0d0-5b3c-9865-a5a20cfdba3b,chr2:g.208248389G>C
+c031f2a5-a563-4d5b-bd62-49d4fa5eca78,female,Alive,1965,,17339,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,017e3193-9203-53c4-8aa8-e2cbcbba424f,chr2:g.208248388C>T
+b6c2c9bd-625b-4a98-830c-49c344f6cb5f,female,Alive,1957,,19399,,"Oligodendroglioma, anaplastic","Brain, NOS",not reported,TCGA-LGG,69173f5f-3266-55f0-a944-0780751709df,chr2:g.208248388C>T
+1e5eaf10-f6f1-4ab1-b0bf-fc3e0718b6bb,male,Dead,1965,2021,19332,,Glioblastoma,Occipital lobe,Not Reported,CPTAC-3,3eea7a67-84b3-52ef-a22f-3f8f63d31f34,chr2:g.208248388C>T
+7989b7fb-b9d9-4d3f-9352-cd0c1f28d828,female,Alive,1975,,13799,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,c0f1d4ca-4b49-5742-8fe8-080f98bd4198,chr2:g.208248388C>T
+3f6ffb08-32a9-4555-bfd1-243b7f526105,female,Alive,1950,,19616,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,2f6c2774-30f4-5fd2-945f-c6f3054a2457,chr2:g.208248388C>T
+24ebd152-f8d7-44eb-af7f-8ee7f2e458e4,female,Dead,1947,2008,22585,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,e060faee-96b3-54f2-99c7-dd30806fde23,chr2:g.208248388C>T
+bde84ea9-55c9-4d6d-be86-58fd9222c1d6,male,Dead,1972,2004,11284,,Glioblastoma,"Brain, NOS",not reported,TCGA-GBM,b1a4ea5f-026a-56cc-93c6-3a024e81e440,chr2:g.208248388C>T
+648252da-dd86-48d1-ae75-4257e3142b0b,male,Alive,1948,,22735,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,74f7cbe8-8a88-5e32-ba47-eec8ac14ce7c,chr2:g.208248388C>T
+775c04e6-a02d-44a4-86f7-496056edd249,female,Alive,1967,,15045,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,f0ee589d-c974-50be-902f-e80e8ce3e66b,chr2:g.208248388C>T
+a2ac9937-f351-4d78-9261-264bf6c21e0c,male,Alive,1965,,15964,,Glioblastoma,"Brain, NOS",not reported,TCGA-GBM,2d8bec5a-887f-546a-85c1-01fd75a7eadb,chr2:g.208248388C>T
+0557b788-5aed-4919-85eb-a503ad893d75,female,Alive,1977,,12851,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,aa19c6d8-484c-5a9c-b655-b9542f38684f,chr2:g.208248389G>A
+e7fdf164-a85d-4ff5-9676-d2215ca35403,female,Alive,1978,,10989,,"Astrocytoma, anaplastic","Brain, NOS",not reported,TCGA-LGG,7cf76a08-56c4-51b0-9832-0d61dac1e368,chr2:g.208248388C>T
+01a13aba-74a4-4895-a5ad-e5119925c202,female,Alive,1965,,17874,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,2a6bfaca-be24-5c96-afe2-a186ae05b6b3,chr2:g.208248388C>T
+c45e02e5-7e3c-4f36-8b8d-f54617e8a436,male,Alive,1971,,14679,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,7d792d97-2bc0-5640-ab57-da021a5c2bab,chr2:g.208248388C>T
+bc66f21c-7ae6-4312-b6c1-ea3e19f90485,,,,,,,,,,TCGA-LGG,2b8fbf2e-a804-51b6-a842-7bbc1671f87b,chr2:g.208248388C>T
+145c3685-f6de-4669-8ec4-6c3431a90532,female,Alive,1958,,19903,,"Astrocytoma, anaplastic","Brain, NOS",not reported,TCGA-LGG,1d5aaf24-7793-5f2e-9a61-4277554a5c43,chr2:g.208248388C>T
+84569c1a-6baa-4380-ae3c-707df1be4618,female,Dead,1950,2005,17612,,"Oligodendroglioma, NOS","Brain, NOS",not reported,TCGA-LGG,021eac73-664b-5b46-917a-8083bc0bdc15,chr2:g.208248388C>T
+032096a6-1923-44b9-a1cb-181bed041c8e,female,Alive,1961,,19056,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,795a04ce-7509-5096-bd77-41c01adc9c84,chr2:g.208248388C>T
+9ee268a7-fa71-4f3f-919f-cf4ee1de2658,male,Alive,1983,,9667,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,c09307cc-c172-5acb-9fb1-6933cfe9b7d7,chr2:g.208248388C>T
+3ac41cc6-5dfb-40a1-bd13-5dc7ca2bb6f3,female,Dead,1961,1998,11330,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,c6f802db-7f5b-5489-86fb-f353d95bf545,chr2:g.208248388C>T
+669605f6-39a1-4f8c-81dc-39430ff5f892,male,Alive,1979,,12111,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,c74f0a00-0e56-541f-8b86-54c3b0728c4d,chr2:g.208248388C>T
+0c52a842-c220-486e-88de-8a4fec5d6a58,male,Alive,1981,,10812,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,ad574a44-4d1d-557d-84b8-124f12f3e14b,chr2:g.208248388C>T
+63f4aa26-dec0-4309-8b75-6446a7241527,female,Alive,1956,,20014,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,a249f645-cf5d-5dc1-89b5-4455b43331b7,chr2:g.208248388C>T
+fa878a23-cd20-44ef-b438-33033b5fb1fe,female,Alive,1939,,27232,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,a22ba1b0-08a1-5657-95f6-8e83c365c47e,chr2:g.208248388C>T
+fe5c5c11-ef39-4907-9a70-67f37bb62fd7,male,Alive,1970,,15847,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,b35a2c00-9c25-5232-92ce-f0c39e2830da,chr2:g.208248388C>T
+738143b3-2d82-42f0-9fd4-8cbabc9c9b4f,male,Alive,1965,,17501,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,0928bc6d-2dcf-54d9-9693-ffd91ee420ef,chr2:g.208248388C>T
+31e6e6c8-9197-4927-bfe4-8f6836f963da,male,Dead,1934,2001,24217,,Glioblastoma,"Brain, NOS",not reported,TCGA-GBM,104b4606-de58-523e-9bd8-bcc30c7894e4,chr2:g.208248388C>T
+b7cd3b44-ef6a-4207-a44f-14f5b3b56ed4,female,Alive,1964,,13904,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,88ea8f24-aff9-5b22-9459-98c0597b7438,chr2:g.208248388C>T
+ffcec8e5-9fd3-4b42-a7cb-74761f713cf4,female,Alive,1978,,11233,,"Astrocytoma, NOS","Brain, NOS",not reported,TCGA-LGG,4d61eda5-d60f-50d0-9652-9393486fe7c9,chr2:g.208248388C>T
+6a8241a8-d9ee-414b-89fd-4c3b9f181cc7,female,Alive,1983,,10989,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,e4f58406-4aaa-5098-942d-532855f5c4a3,chr2:g.208248389G>T
+e4d9b696-3311-44e7-9191-fde56c080a00,female,Alive,1988,,8403,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,2b6546b4-3637-53b9-87dc-519b27e696ca,chr2:g.208248389G>T
+dc7ec60b-5ea5-48a4-8908-55caf9214272,female,Alive,1960,,17610,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,ad88044e-e6d5-5add-9f5b-125001f64267,chr2:g.208248388C>T
+fb3884df-3680-4c5b-8092-981007aeba03,male,Alive,1975,,13621,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,991699c6-bb17-53e9-a900-484580964c30,chr2:g.208248389G>A
+033c1f48-9225-4159-b23b-7042272877da,female,Alive,1968,,15178,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,3b7b8795-1838-5da3-802c-fa35d264043e,chr2:g.208248388C>T
+7e41baba-7ef6-4030-b595-d95cd96336b5,female,Alive,1979,,12092,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,08ec88f9-0067-5245-bf02-4cab5a41636f,chr2:g.208248388C>T
+048056cd-39dd-4134-a58b-70bebb3dd2ff,male,Alive,1960,,18321,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,ceecfcfb-dd23-5638-9ca8-2b9f787f3927,chr2:g.208248388C>T
+0b54cda4-7568-481e-b0c6-2c5c6de0026c,female,Alive,1969,,13680,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,25e4fb78-bcdd-5a8e-86b8-a6d1a306b9e1,chr2:g.208248388C>T
+1f54d21e-752f-496d-8453-4b9b8738cbce,female,Alive,1980,,11528,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,7c6a0d9e-5bec-5645-8edf-71656b7d14c0,chr2:g.208248388C>T
+c6cf2b8e-40ed-4c9f-8419-d868bd5afe11,female,Dead,1958,,17460,,"Oligodendroglioma, NOS","Brain, NOS",not reported,TCGA-LGG,4e762886-ffac-546b-8b1b-10e9a42ec422,chr2:g.208248388C>T
+1b43ff0c-cf13-4620-b5c7-7abd9129612f,male,Alive,1970,,14279,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,5bbb84a3-1013-559f-b3b8-817ae1c4d312,chr2:g.208248388C>T
+b435e88b-f105-4c65-b725-126e5a299113,male,Alive,1979,,10883,,"Oligodendroglioma, NOS","Brain, NOS",not reported,TCGA-LGG,9e4166d1-33b7-5a1a-8902-c48d87321af2,chr2:g.208248388C>T
+335bc811-8bdc-4f66-bdd0-703b7cc7464b,female,Alive,1954,,21715,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,39ba6a2e-8946-5f56-a5cc-0af5d9f21c35,chr2:g.208248388C>T
+5735655b-b57a-4a27-8fbe-4e4a24150b1c,male,Dead,1973,2019,16016,525.0,Glioblastoma,Parietal lobe,Not Reported,CPTAC-3,d4e1c6a5-8629-55cc-8e19-287e3e7b59c1,chr2:g.208248388C>T
+e30f1994-3622-43d0-bec2-6d7e2d9881d2,female,Alive,1983,,10082,,"Oligodendroglioma, NOS",Temporal lobe,not reported,TCGA-LGG,ebe780b1-bf40-5536-8057-02bca0741c91,chr2:g.208248388C>T
+9d0c1552-00a7-4f0a-a04a-a82e721ee4e3,male,Alive,1975,,11738,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,a6fe4ed6-be63-5ca1-b1bd-e0396b9afed7,chr2:g.208248389G>A
+48314732-5d1c-43e6-9878-5b58dfaeb06a,female,Alive,1973,,13564,,"Oligodendroglioma, anaplastic","Brain, NOS",not reported,TCGA-LGG,3ef1f109-43a0-5e9a-8bb3-eb9680b24267,chr2:g.208248388C>T
+f5268956-789d-4b22-8f19-a3ac9353d33d,female,Alive,1985,,9919,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,d40e4dda-512f-5bbe-8ea7-47bcb2a18abe,chr2:g.208248388C>T
+42cc9620-98fb-4164-a3b2-28d084ca5a03,male,Dead,1941,1995,19541,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,379d82f3-1808-5ee7-b1e6-19e3e64f1f26,chr2:g.208248388C>T
+1f5b6b07-45f5-4da4-932a-df9665f6c538,female,Dead,1977,,12248,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,40e86411-b5bd-527a-8ab3-e958ffb5a0fc,chr2:g.208248388C>T
+0fe6684a-5ab2-4999-b69d-d99aa5679c97,male,Alive,1983,,8710,,Glioblastoma,"Brain, NOS",not reported,TCGA-GBM,a1993407-7299-593a-9714-9f7b611002b7,chr2:g.208248388C>T
+59012b43-ab0b-42c3-aed3-94e224a3dfa7,male,Alive,1978,,12848,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,d335cc4f-560d-5d5e-99ba-26554bd70bd1,chr2:g.208248388C>T
+36cf458b-3c8e-48e7-92ab-aea1c698e417,male,Alive,1980,,11474,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,10ab984a-6a86-54ed-bef9-3594f3cb5d61,chr2:g.208248388C>T
+40ae8507-c08a-45d5-9bbb-65d236c82319,male,Alive,1952,,20613,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,1d1d3498-a80c-50a5-850e-2c4fbcde183b,chr2:g.208248388C>T
+484dd45b-a16c-4650-bac9-832fbe4d96eb,female,Alive,1989,,9005,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,a635768f-8900-5652-a67f-e36de0284ef6,chr2:g.208248389G>A
+1701f4ad-58c5-40d8-90c4-99e3acac0104,female,Alive,1984,,10150,,Mixed glioma,Temporal lobe,not reported,TCGA-LGG,1f3fbf64-0774-50fb-800d-af3b6c6b70c4,chr2:g.208248388C>T
+975e17c2-b93c-4d45-8a85-786f365e4a93,male,Dead,1964,2011,12849,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,978b2506-247c-5305-84bd-b7cd878fad97,chr2:g.208248388C>T
+eef15b5c-5fbe-482a-b3b0-dd091888a6a2,female,Alive,1976,,13545,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,e821dfef-a1c9-5798-8efe-6ede14ecfee1,chr2:g.208248388C>T
+15f6cafe-10fd-4505-8f88-383f9474c493,female,Alive,1952,,24111,,Glioblastoma,Temporal lobe,Not Reported,CPTAC-3,ad5cbdf8-0e29-5b8d-99fd-73b7463fc695,chr2:g.208248388C>T
+01c4ca12-ac08-41dd-9e4f-bfb0971688a2,female,Dead,1968,,11854,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,db984db4-efd9-515d-ab78-973519d77da6,chr2:g.208248388C>T
+d05079f2-9883-46e6-ad06-9e561f08d819,male,Dead,1973,,12725,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,24932415-fcb7-581b-a5bf-ae439dc0ef34,chr2:g.208248388C>T
+da735a88-d811-49f1-9091-a097c59ed68e,female,Alive,1945,,24690,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,be376b44-cd38-513f-8eb0-da666dec3ca3,chr2:g.208248388C>T
+00b18ad6-ff70-41fe-8f4d-0763ac8f28b9,male,Alive,1956,,19610,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,92ada029-a918-579c-b18d-c84166f79ab8,chr2:g.208248388C>T
+8d07b1e8-5d1d-4a43-b616-d29dd58ce5fe,male,Alive,1981,,11312,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,693c72a6-949d-522d-908c-768bab2ae434,chr2:g.208248388C>T
+8b10f00f-fde6-423d-bc36-027931359a5a,female,Dead,1968,2011,14985,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,5931fe3b-1cf6-52d0-a396-e7eb0c7a8256,chr2:g.208248388C>T
+345d975c-e666-4614-81eb-5ccbb5bd2cf7,female,Alive,1975,,14082,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,b9533dac-ea45-5411-8555-497e0aef7912,chr2:g.208248388C>T
+0b283f95-dbd4-4c36-9201-2198a90ee0d6,female,Alive,1950,,20609,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,c953dbfc-18d2-59e4-a62b-4cdef3927909,chr2:g.208248389G>A
+d50e944a-3ce4-4632-a878-118499e143e3,male,Alive,1973,,14310,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,cb62bbbf-70f4-5ef3-a11f-82759e97684f,chr2:g.208248388C>T
+a85aebda-b182-41ba-815a-3ff055e22829,female,Alive,1978,,12445,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,0408774d-ba01-598a-bf6e-38e16eabf4dd,chr2:g.208248388C>T
+559a8f6f-dd60-43b7-ae09-16cc4206064c,female,Alive,1991,,8240,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,67e391f1-8d1e-549d-a531-656261f83d79,chr2:g.208248388C>T
+80db28ec-ab3d-42a7-af88-b60fe8acb5b5,female,Dead,1970,,14910,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,312bb9dc-19d6-5df5-8d89-bfa3cb54f018,chr2:g.208248388C>T
+fc8828ae-484d-4fc8-a168-f8bc58ad65b9,female,Alive,1957,,20136,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,2b330006-01ab-5cdb-8e96-5c1a5f360a4b,chr2:g.208248388C>T
+c8700ca3-8c0b-4b2a-9e87-79d244a0f892,female,Alive,1978,,11855,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,4371fd89-ad16-597b-8784-d1f2841a135a,chr2:g.208248388C>T
+427c40f6-d1bd-49f2-b303-a975793b937e,female,Alive,1957,,15289,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,7f6aec79-11f9-553d-9a78-5a92caa51a93,chr2:g.208248388C>T
+58650d08-7685-41de-9ae0-21665f8f449f,male,Alive,1966,,17134,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,8f1b6df8-a07b-5c6a-985d-38f549de4bc7,chr2:g.208248388C>T
+a3be4e6f-c845-4d64-8111-d63fdf8cc8f1,female,Alive,1954,,21189,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,66cf8175-6533-561e-bbc4-90d1d54f1a3e,chr2:g.208248388C>T
+a23aef16-6b33-405f-99dc-d4e9976dbe6e,male,Dead,1977,2016,14468,,Glioblastoma,Frontal lobe,Not Reported,CPTAC-3,033f7b11-1283-52b4-bea6-f4ba23ba2d6c,chr2:g.208248388C>T
+491ea65b-86c8-4686-99cf-f09505e20183,female,Alive,1957,,18956,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,1cc2595d-d1b9-5acc-ae07-4382edc2c7a2,chr2:g.208248389G>A
+3d58ded1-b7cf-420c-ba59-5b424683f0df,female,Alive,1979,,10724,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,6b0ef8ad-065e-52ac-b67e-9ceecef2a7d6,chr2:g.208248388C>T
+e488f613-f155-4e11-87d4-8c789ea81691,female,Alive,1983,,10641,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,fe024fd2-b914-5a92-924b-774c54ff268d,chr2:g.208248388C>T
+738f5c96-ee44-4fd7-bb8c-e2b86f8053c8,female,Alive,1978,,12580,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,38ed96d9-50ef-5700-ab30-22b936db4546,chr2:g.208248388C>T
+33615113-791b-4286-a23a-ad3d1f8d4b09,male,Alive,1984,,9705,,Mixed glioma,Temporal lobe,not reported,TCGA-LGG,e7617982-a4d0-53d3-95ec-7b6be8843391,chr2:g.208248388C>T
+837b51d0-e6b7-431b-a5f3-7615bdf12b67,male,Dead,1957,2002,15230,,"Astrocytoma, anaplastic","Brain, NOS",not reported,TCGA-LGG,5d55a29a-f4e7-590f-914e-b6b78a9876ba,chr2:g.208248388C>T
+a144e4e4-2877-4340-a2bf-524adbde8bc8,female,Dead,1953,2011,19610,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,db92b8a6-6d2a-55dd-9212-f2858d8b5906,chr2:g.208248388C>T
+e57b296a-80e9-4446-a3d1-3dbfeaf04f5e,female,Dead,1949,2001,16666,,Glioblastoma,"Brain, NOS",not reported,TCGA-GBM,b0bc94de-b993-5402-97ac-b2e2effafc6d,chr2:g.208248389G>A
+ea7f3ed6-e44b-49a1-8b5c-ce35539e7bdf,female,Alive,1991,,7581,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,39287fec-230b-55c9-82ce-25391af5183c,chr2:g.208248388C>T
+ad72e61e-51e3-4992-ac77-65e895935736,female,Alive,1970,,15850,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,2c348be9-f669-5b2b-9779-53710bc809f4,chr2:g.208248388C>T
+9f469edb-6b12-4eab-bd6f-9c10034d4cb7,female,Dead,1958,2012,17465,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,2e6ee845-109e-5ea7-9af9-dd795a044f88,chr2:g.208248388C>T
+a2202233-4a83-4163-9532-b6edb9941453,male,Alive,1984,,10933,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,c470359d-fd09-56e8-a976-234ee8ed4bb4,chr2:g.208248388C>T
+6a0bcf0c-fa4c-4119-99d2-f722b781d20f,male,Alive,1977,,12972,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,795a4172-17fb-50af-a727-6a3af0810e57,chr2:g.208248388C>T
+41e4dc71-7767-44c2-9d38-110dcd37b451,female,Dead,1958,2011,17857,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,ecc9d656-a095-5351-982c-7138b76e802b,chr2:g.208248388C>T
+5a769292-c3ce-4e18-b821-2bfe0e24978c,female,Alive,1958,,17656,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,f09f6bff-cbc9-5f0b-8b15-8760483747e8,chr2:g.208248388C>T
+3f36cd97-eb22-47de-b447-5c96378e4a2b,male,Alive,1936,,27186,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,e9fadcab-dd02-5ecb-85e3-7c5504426f44,chr2:g.208248388C>T
+0d61bdbd-24b1-4885-a099-9e42ca7eedcd,male,Alive,1967,,14659,,"Oligodendroglioma, anaplastic","Brain, NOS",not reported,TCGA-LGG,40bbce76-f9d6-56dc-b6f4-5bad7c57e31f,chr2:g.208248388C>T
+5795a884-b62a-46a9-81d6-f24058424660,female,Dead,1975,2008,12229,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,63916980-15fd-5359-972a-35e3595f8ddb,chr2:g.208248388C>T
+8996dc64-8c5e-4e07-8ed8-2eb11c03626b,male,Dead,1944,,24966,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,cacb9213-d243-5cf8-b97b-bd60eb04f82b,chr2:g.208248388C>T
+0ce8d92b-54e2-45d4-a551-0faf94a27d46,male,Alive,1971,,13314,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,39159920-dfc3-54f9-9893-327681a5977f,chr2:g.208248389G>C
+2c982cfb-4112-4e27-8293-25aa9e01faae,female,Alive,1976,,12820,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,e6259535-bbec-5390-9384-e08ff6dd5798,chr2:g.208248388C>T
+ae081e4a-efa9-4b52-b15e-29085c0612d3,female,Alive,1971,,14375,,"Astrocytoma, NOS","Brain, NOS",not reported,TCGA-LGG,4387f71a-1938-59b2-9695-ef64f80e1c8d,chr2:g.208248388C>T
+23c335f6-5749-4443-8ae8-61cccbb137cb,female,Dead,1984,2012,9546,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,2039e387-e166-52cf-88c4-bb4c24547889,chr2:g.208248388C>T
+976d067b-9d7f-4920-a04d-e831edc6c2c2,male,Alive,1966,,17258,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,a82bda3c-3734-575c-88dc-94a64e38edaf,chr2:g.208248388C>T
+76e54ef6-1799-4fd9-bec3-0ea960e8461e,male,Dead,1937,2009,25809,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,17ec49b8-fa46-51e2-807b-2bd888ef059a,chr2:g.208248388C>T
+f18dab99-26b0-4727-89a9-7f16bd382356,female,Dead,1949,2008,21019,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,f465b21c-644f-5403-912b-067d3b629c9e,chr2:g.208248388C>T
+1b77d1e8-0a02-41de-a408-dcf33a43407a,male,Alive,1965,,17390,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,61402dd0-e8fb-5e80-b5f3-cac730ba883e,chr2:g.208248388C>T
+41456932-436e-4cdb-bfe8-97d089656786,male,Alive,1943,,24686,,Mixed glioma,"Brain, NOS",not reported,TCGA-LGG,77388915-7c31-5499-9ef4-316792899e17,chr2:g.208248388C>T
+bc3b4816-df1d-44ed-a8c6-f32c8e011a1f,female,Dead,1977,,12557,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,9a28f1a6-4f2a-581c-a1e9-a7b26b5ef54b,chr2:g.208248388C>T
+97bf8065-3e7d-4702-a426-24908f4d66a4,male,Alive,1965,,14920,,"Astrocytoma, anaplastic","Brain, NOS",not reported,TCGA-LGG,e0085bc4-1f5f-57b6-b3dd-98175041c1cc,chr2:g.208248388C>T
+6a0b306b-f73d-45b2-93a6-b9bd625644a3,male,Alive,1966,,15727,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,04124534-c4d4-5b30-a003-f65ad1edb710,chr2:g.208248388C>T
+0ca72ebd-ff33-45b8-a97c-3f1435603d71,female,Alive,1983,,11297,,Glioblastoma,Overlapping lesion of brain,not reported,TCGA-GBM,22c5db2d-2a07-5f56-b189-46de1d7cdff6,chr2:g.208248388C>T
+b027ab77-70eb-4877-91a3-702064d9cc8b,male,Alive,1950,,21352,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,b900f523-83ec-56c5-b993-fd287416fb03,chr2:g.208248388C>T
+c7b2833a-9fe8-49f6-b888-2d27b0516f5c,male,Alive,1947,,23486,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,db707be7-1399-5b3f-88fd-72795fe10132,chr2:g.208248388C>T
+977118c8-b446-4696-aa6e-9f1a1055e241,male,Alive,1970,,16037,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,c29c7e6c-a88a-5cf4-a9d6-bca19313c429,chr2:g.208248388C>T
+4797c600-f024-42fe-b287-d919b24dcb79,male,Alive,1964,,15836,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,b361620b-e217-58b3-bc24-faa1a4a773b9,chr2:g.208248388C>T
+176d89d7-f8f1-4a72-b45a-31cbe1632a30,male,Alive,1958,,19950,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,a4e79270-2de8-5f0a-84e5-4b6b55c30e93,chr2:g.208248388C>T
+74ce7e7f-e214-4b6e-8551-114a153ab7fb,female,Alive,1965,,16572,,Glioblastoma,"Brain, NOS",not reported,TCGA-GBM,cf4aa4fb-4046-588f-b73a-c7d265e2ebb7,chr2:g.208248388C>T
+a0bc5147-d9b4-41fd-8df3-a241d23722e8,male,Dead,1966,2006,12655,,"Astrocytoma, anaplastic","Brain, NOS",not reported,TCGA-LGG,1b304512-9955-5acf-866d-ba15c7030440,chr2:g.208248388C>T
+cfcd3835-bb09-400e-b7eb-55ac139d01f8,male,Alive,1963,,18193,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,1601dc7e-1056-52e7-8484-f8df455645d3,chr2:g.208248388C>T
+33bedfb7-33fb-479d-b997-50c3284c0ac9,male,Alive,1970,,15926,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,bd92ba5c-ce9f-5890-b5ea-5a456c1413bb,chr2:g.208248388C>T
+b10a9314-fd40-459e-97ea-affc636dceea,male,Dead,1981,,9044,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,2b21f963-ebde-5a55-817f-9c543e236f40,chr2:g.208248389G>A
+cb598780-9e42-4167-b487-eec90ad4f36f,male,Dead,1975,2008,9322,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,90f9b755-09d4-537e-9def-c2b30306e51c,chr2:g.208248388C>T
+081b6532-0ed4-445a-becb-cb2290f4854d,male,Alive,1971,,15658,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,4d4244aa-df07-5536-8a1f-5a5e0edb075f,chr2:g.208248388C>T
+99d396bb-5f51-4ee4-a149-244e8fcaf522,female,Alive,1973,,14019,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,95ef27bb-609e-54e7-988c-d101b46a10ba,chr2:g.208248388C>T
+581e04f9-4d0b-4ed2-97f5-2f97ace24928,male,Alive,1984,,9213,,Glioblastoma,"Brain, NOS",not reported,TCGA-GBM,bb391aff-3333-5b6d-8b6a-ddfb1f2da5d9,chr2:g.208248388C>T
+5e0748f1-990b-43a9-9ff1-6a667cc228a8,female,Alive,1977,,12131,,Mixed glioma,Temporal lobe,not reported,TCGA-LGG,f92b10c2-90b1-52c4-b336-aaf012f9e094,chr2:g.208248388C>T
+0061e9ef-df6a-414e-af64-c88f8192e2d3,male,Dead,1963,2005,11332,,"Oligodendroglioma, anaplastic","Brain, NOS",not reported,TCGA-LGG,74e5810c-18b4-5d0d-9d51-7c40a0783ec4,chr2:g.208248388C>T
+952dfd5d-e65a-4307-b6a9-2ed2b0d2d9ce,male,Dead,1972,,13565,,"Astrocytoma, anaplastic","Brain, NOS",not reported,TCGA-LGG,28538b59-e7b5-50d3-86a9-9ad08c90b322,chr2:g.208248388C>T
+178ab87c-0582-4b02-bf6b-3a4c59a5ee1b,female,Dead,1932,1998,24122,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,d0a9b2c9-37a8-584b-86b0-0fb206981535,chr2:g.208248388C>T
+9352d2fd-ae75-4b27-95f5-96f66fda7958,female,Alive,1965,,18904,235.0,Glioblastoma,Temporal lobe,Not Reported,CPTAC-3,eea2a3f2-ca5f-5d9c-8535-2ee2eac3873f,chr2:g.208248388C>T
+c916b9a4-008e-4d79-a50c-f15c3549fcf6,male,Alive,1980,,11622,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,72fc68ca-6eeb-5162-8de5-75392be04ed3,chr2:g.208248388C>T
+823f571a-3cfd-465d-95fd-187a398ccf6f,male,Dead,1955,2007,18939,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,0f1e119a-3c0c-56c9-b866-b14cfb6f8428,chr2:g.208248388C>T
+13429a31-a193-4180-a8b2-cceaa21ecbfd,male,Alive,1951,,22051,,Glioblastoma,"Brain, NOS",not reported,TCGA-GBM,78b374e7-5bbe-5bb0-bd80-1dde3cfb1037,chr2:g.208248388C>T
+2fb951f1-00a0-4caf-ac93-096056e77b1f,male,Alive,1992,,7913,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,fb24ca7a-4828-57fe-901c-f1d844831649,chr2:g.208248388C>T
+67e9b426-72eb-4475-9689-eb75b22c4fd5,female,Alive,1988,,8947,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,bd8d611e-727a-570f-a54f-1810bf644066,chr2:g.208248388C>T
+054f472f-98cb-4559-b2e2-b5f800fc8eef,male,Dead,1969,2001,11333,,Glioblastoma,"Brain, NOS",not reported,TCGA-GBM,db4f0f85-16a1-5b8c-96de-51a61de40c15,chr2:g.208248389G>C
+ae4f0714-3b74-46c0-9c1b-f028c7cf2e62,female,Alive,1960,,19138,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,a7ffd12d-2850-5427-aea8-c1c93646e7a9,chr2:g.208248388C>T
+cf2a1b98-5693-4c04-9167-f85e69a88a4a,male,Alive,1990,,8335,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,0426c459-df5b-5902-97e4-c353b799179c,chr2:g.208248388C>T
+183dd089-e932-4be2-b252-0e8572e7da4e,male,Alive,1984,,5267,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,7cab1eb3-7a73-52c7-ba7c-bdfee51b3250,chr2:g.208248389G>C
+e6c55ba6-4c8a-4ea4-8dde-74d01915db02,male,Alive,1981,,11209,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,74acfa82-488b-59dd-aaf4-4dadd033d7fa,chr2:g.208248388C>T
+97cb8701-7d63-4142-b404-006fbb3ecb0b,female,Dead,1967,2005,11595,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,5bb21e2d-ec86-5414-9ff9-e10576730c7b,chr2:g.208248389G>T
+0df37550-9421-4571-9844-51b457d7cb2b,male,Alive,1980,,11684,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,e1ed1274-8f51-5e99-95f2-2d83444cf2cf,chr2:g.208248388C>T
+42156c6a-416e-4832-9c95-cee6084b0910,male,Alive,1948,,24055,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,ee71057e-cd96-5af0-a0bb-b1f65f76f3a5,chr2:g.208248388C>T
+a56c2083-33d5-4c98-b85f-3b68a3d80add,female,Alive,1986,,10170,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,b7a3f29e-243a-5676-bbd7-f5023bb67690,chr2:g.208248389G>T
+fcf14e9d-4671-453d-b8e0-5008e916f56d,male,Alive,1981,,11668,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,3e088d38-e335-5c40-9c6c-bf5246f5d56e,chr2:g.208248388C>T
+1f13065a-40f7-455d-b8eb-f9a128722eac,female,Alive,1971,,15091,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,da655667-9595-5ee8-9f8a-82bba4d361e7,chr2:g.208248388C>T
+5ea230a6-77aa-4aa5-867c-09651d481d8b,female,Dead,1961,2009,13903,,Mixed glioma,"Brain, NOS",not reported,TCGA-LGG,35ab4e87-33b2-53ce-af70-feb08e7668d3,chr2:g.208248388C>T
+c56fa247-ad97-4dce-a2d3-9bdfc5dc7b1b,male,Alive,1983,,10960,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,635b6d05-431c-5db7-8dd1-e134960b3078,chr2:g.208248388C>T
+389d5472-9e4a-47b3-bd6c-994eb0fafea2,female,Dead,1955,2008,19281,,Glioblastoma,"Brain, NOS",not reported,TCGA-GBM,476258b5-1eb1-5330-879e-fbd25259b483,chr2:g.208248388C>T
+d87742fd-ff94-4ef0-bbf4-5dd5a185a0e7,male,Alive,1985,,10027,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,f0cd557d-114e-55d1-84f7-ea9e4feb1172,chr2:g.208248388C>T
+6ef2d9ab-f72e-48cf-92b8-f3159d28160c,male,Alive,1974,,14524,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,1f1e83f5-dd81-582a-8326-f1aa5d5fc6f7,chr2:g.208248388C>T
+5a3ef1cb-c98e-473a-b097-20307b04bc1b,male,Alive,1979,,11884,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,96368e8d-5263-5b2c-acc2-3cbe710467a7,chr2:g.208248388C>T
+c81d4681-c02f-4b33-abe0-b6ad7d61194d,male,Alive,1982,,10824,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,4d5fe21a-2e1f-59af-b507-7ca1b629273f,chr2:g.208248388C>T
+1c095c4a-df97-402e-902c-fc83bcf8ef88,female,Alive,1951,,22811,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,2558c26f-b6ca-5ff0-b4ba-d38e519d4bc6,chr2:g.208248388C>T
+1cc53ade-73c0-492b-a7dc-328269fd0e66,female,Alive,1948,,22847,,"Oligodendroglioma, NOS","Brain, NOS",not reported,TCGA-LGG,f6ec5936-6390-5fb5-a0cd-20b207374ad9,chr2:g.208248388C>T
+c2f9dff7-751b-4704-8e6e-f4f800297030,male,Alive,1959,,19921,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,c98fc4a1-0628-5215-a778-3fa006bd091f,chr2:g.208248388C>T
+3431a71c-fabf-440c-b11c-8acfee04724f,female,Alive,1970,,15154,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,e48d3605-9801-5257-8d50-fbc6e4f9862f,chr2:g.208248388C>T
+64cd17eb-c778-45e9-b994-02b68182e51b,male,Alive,1960,,18494,,"Astrocytoma, NOS","Brain, NOS",not reported,TCGA-LGG,6627b576-1e3e-5545-8536-1c880cc8df74,chr2:g.208248388C>T
+fff304a2-113f-499d-a88c-9d3660c348d9,male,Alive,1967,,16732,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,b3fee798-d9a4-5557-8a04-4c9a906a1ac6,chr2:g.208248388C>T
+f005fa99-7e4e-4308-b11c-83b25683b1fd,female,Alive,1969,,15866,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,0c8305c7-4abd-59b1-85a8-08ac716d8dc8,chr2:g.208248388C>T
+5718a50d-332c-4882-8736-2ca8989946dd,male,Alive,1983,,12449,,Glioblastoma,Frontal lobe,Not Reported,CPTAC-3,509d0e25-5e3f-544b-8e08-dba338f7c747,chr2:g.208248388C>T
+a0b7c7c8-a6f2-41ba-9e61-9b7f8fbbbe1f,male,Alive,1947,,22745,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,52e5d052-1636-55e3-8e90-401c715dca0b,chr2:g.208248388C>T
+d9cae674-1100-44a4-8c61-2f15ea1b6214,female,Alive,1962,,18248,,Glioblastoma,"Brain, NOS",not reported,TCGA-GBM,52cc8d77-6dcc-57af-8e2f-d9da6335e3cc,chr2:g.208248388C>T
+4c167f09-d664-425f-bd84-6ff8c21b272b,female,Alive,1979,,12107,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,6ebbc6cf-bb4f-5478-a642-733987c0fd3d,chr2:g.208248388C>T
+765588aa-075f-477f-9c18-099d018d3a1b,female,Alive,1959,,19869,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,d21b1633-3353-549f-a04e-e36e960fc3b5,chr2:g.208248388C>T
+e3ed0c19-6acc-4be1-aae2-73fe73cc9f24,male,Alive,1975,,13503,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,7dcf46f3-7580-5466-94b2-17fbcc7fb29b,chr2:g.208248388C>T
+df78e63d-4387-4177-b24f-f0e2c6c7ac32,female,Alive,1986,,9209,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,c198365e-4aba-5585-8545-77837efcdedc,chr2:g.208248389G>C
+114902c7-77b2-42ca-926b-6895e6db5e36,female,Alive,1947,,23680,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,0608b54c-ac19-5b3e-ba00-c957760d0d94,chr2:g.208248388C>T
+de6f01bf-2de9-4d07-a956-e6a4c0acb371,female,Alive,1976,,12631,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,80c77649-21e2-508f-8b2a-87de9e4188ce,chr2:g.208248389G>T
+42251e02-b687-4bf1-a1b6-e3dd978542e4,male,Alive,1971,,14535,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,615bd511-b1a8-5d30-8a3d-c19e5b5373d5,chr2:g.208248388C>T
+0709dbcc-0828-4066-aa01-96f059e5fa97,male,Alive,1966,,17289,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,ef131a2c-bbeb-56e9-8a37-01b1c5b6ca5c,chr2:g.208248389G>A
+62ec50e7-636e-46c6-afed-66bf217b59c1,male,Dead,1968,2011,14671,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,6ed25d08-f2e0-5a8e-a5c1-8178339cdee2,chr2:g.208248388C>T
+a210407e-b7de-4e27-84b2-9dcc5f9e6e63,male,Alive,1953,,19939,,Glioblastoma,"Brain, NOS",not reported,TCGA-GBM,28e625e3-b9db-5334-878a-e31ed407755a,chr2:g.208248388C>T
+334f715e-08dc-4a29-b8e4-b010b829c478,female,Alive,1974,,11509,,"Astrocytoma, NOS","Brain, NOS",not reported,TCGA-LGG,9b7a10be-1adc-51c9-be74-5d8ea8f0712b,chr2:g.208248388C>T
+79627774-078d-4056-84b3-f1f370f643e0,male,Alive,1971,,15300,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,16b37960-3783-5fcb-9d6f-292ead923a72,chr2:g.208248388C>T
+66c52a31-6503-40b5-a55e-fa476eaf0567,male,Alive,1986,,9363,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,9234cbbf-345e-5cd4-90dc-c7155e2b6753,chr2:g.208248388C>T
+b75845ed-a19a-4caa-b362-e62b1e538152,female,Dead,1961,2002,14093,,Glioblastoma,"Brain, NOS",not reported,TCGA-GBM,cc0d0adc-ea57-5b53-860d-ef5b5afecd3b,chr2:g.208248388C>T
+fc3948fb-df27-4149-bbfb-04443dfecc19,male,Dead,1954,1996,15345,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,224d4b69-dc24-5694-b41d-d3c01cdd816b,chr2:g.208248388C>T
+82fd02ab-d628-469f-8853-4c603cf04964,male,Alive,1963,,18429,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,70f0867e-9b6d-5924-a49e-59854983f6f7,chr2:g.208248388C>T
+84d80bcf-da24-4b93-bfe3-3d2d53b8b07d,male,Alive,1980,,11286,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,29583911-9a72-5b3c-ab23-6adb91580d91,chr2:g.208248388C>T
+2272dff7-a509-496f-b500-467c1bce2f79,female,Alive,1963,,17878,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,89daaaef-58b5-51ba-a099-04fbf40185d5,chr2:g.208248388C>T
+f97a9afe-e54a-4ef0-b458-0c77f938552e,male,Alive,1960,,18735,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,42ad2250-64e3-5d96-a6e5-664292a3435f,chr2:g.208248388C>T
+38acdfc8-8abc-4d89-a68b-58c493650b48,male,Alive,1970,,14816,,Glioblastoma,"Brain, NOS",not reported,TCGA-GBM,652783ee-0408-5f74-bad5-f93e1b1cfb54,chr2:g.208248388C>T
+81622da8-9f36-4ea3-b223-d831d8c10f87,male,Dead,1973,2009,12266,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,83f43d32-4b58-5541-8333-7534434879e9,chr2:g.208248388C>T
+3b68b6ff-7efb-4d53-8bd8-c76cd68ab7c0,male,Alive,1961,,17744,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,a57007ff-3f93-542c-b9ff-1ae73eb16bfd,chr2:g.208248388C>T
+e89f7631-fdac-4be9-9997-70e400efdc04,female,Alive,1974,,13892,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,839bd662-9f69-5044-9d69-ff77202b7096,chr2:g.208248388C>T
+0611f5bc-89b5-44bd-b301-751faaadb561,male,Alive,1982,,11070,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,be8090ba-6d33-5105-af63-48b41e5a4c0d,chr2:g.208248388C>T
+2cfc07f3-a31c-41a2-a9e3-b708d2421a78,female,Dead,1969,,14249,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,1e8d7670-316f-5acf-adc8-a22137fae15c,chr2:g.208248388C>T
+78a212bc-a740-46bf-a10d-0b9809a5bb3f,male,Dead,1964,,12828,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,cf67b79f-1e18-567c-a20b-45a86b46c489,chr2:g.208248388C>T
+b19dcbc2-b0d4-4759-9213-1a5b99df7e76,male,Alive,1960,,18990,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,50de4256-e63e-5d96-94ff-8949e8d30ba2,chr2:g.208248388C>T
+732df38e-d32c-4d63-ac97-ad655e2e5732,male,Alive,1963,,,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,8804c6f5-e314-5a5e-af26-3cd8ad100423,chr2:g.208248388C>T
+3b19b5d1-13af-4669-a082-1bd546048185,male,Alive,1964,,18161,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,6db898a8-102c-55a7-824c-dc3cb7acfaf9,chr2:g.208248389G>C
+b4f4c9b5-bc50-4f35-a7da-fd011c3b2c02,male,Alive,1975,,14007,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,1ef1923f-2c03-5d13-ac58-3e48dfdf5dfa,chr2:g.208248388C>T
+ab24cdc3-74a1-443f-831f-b7fb3821de6a,male,Dead,1932,2007,27685,,"Oligodendroglioma, anaplastic","Brain, NOS",not reported,TCGA-LGG,a3fecadc-8c7c-5635-8894-826dca78386e,chr2:g.208248388C>T
+38eca720-ad68-43a7-8a1c-f79f838d5d03,male,Alive,1970,,13460,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,b7483f68-1d9d-565b-8c06-e51170567440,chr2:g.208248389G>A
+dcd0856d-423a-40d7-8070-4c0988d61416,male,Alive,1979,,11291,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,5d5e969f-7929-5e6d-b318-c1b2cdadea38,chr2:g.208248388C>T
+a96bca45-ecc7-44f6-acb6-48b0cec3de4d,male,Alive,1980,,12385,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,cae81861-4dbd-5b88-b543-238988604275,chr2:g.208248388C>T
+b37d944c-c65c-46d6-bb8b-3eb37cb85b68,female,Alive,1988,,7936,,Glioblastoma,"Brain, NOS",not reported,TCGA-GBM,a62d9dcb-2b13-5158-a46b-03426eb1bae8,chr2:g.208248388C>T
+152eaa99-05f5-4d30-bfb1-494a9a900e49,female,Dead,1965,2002,11427,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,4850c2c5-b946-5348-9c42-efb4d3d87173,chr2:g.208248388C>T
+cc8614c4-d535-4ad9-82f0-f4dc7ad11d0f,male,Alive,1973,,14858,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,9f5cae22-b468-5ecf-aada-cff04a424704,chr2:g.208248388C>T
+1937318f-a1bb-4f48-b8ec-4aadd406e52a,male,Dead,1927,1997,24282,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,d1e2cb04-807d-5af4-86a6-ad0e0516294d,chr2:g.208248388C>T
+40343ebd-0d62-401e-83a4-6cdb57662ec0,male,Alive,1969,,14496,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,668aad47-dcbe-51a0-90d3-8796c75a40ea,chr2:g.208248389G>A
+9a41f05b-19b1-4269-9997-4b59e378280c,male,Dead,1970,2009,14301,,Glioblastoma,"Brain, NOS",not reported,TCGA-GBM,3a18a579-98b0-522e-b010-9e465c8780b8,chr2:g.208248388C>T
+a3822b5e-d794-4126-b31f-c70e1cc47f22,female,Alive,1975,,14152,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,2edeb31c-c0a6-5e2a-9b2e-ba79e5b83348,chr2:g.208248388C>T
+7638e294-2dcf-4c03-b238-24e40491c2ad,male,Alive,1972,,14970,,Glioblastoma,"Brain, NOS",not reported,TCGA-GBM,cceae3a9-27a0-5531-b0c6-08fe983e0d35,chr2:g.208248388C>T
+1e713e76-064d-46dc-a53c-20a17eb68341,male,Alive,1953,,22038,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,4e865b40-3dec-5dcb-8afd-1cc27538d0f5,chr2:g.208248388C>T
+5b744051-7355-4e15-b035-0621e709a5d7,male,Alive,1979,,10678,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,9ba091a4-b998-5421-8ce4-9ade1536813b,chr2:g.208248388C>T
+e1758d75-b2a0-4386-bd72-6b2421d4da6b,male,Alive,1975,,14140,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,529754b3-f621-566b-bf66-3a3c65cc5f07,chr2:g.208248388C>T
+9b161c41-4f76-4ed1-b60f-2b093bc70edb,male,Dead,1979,2013,11498,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,bbd03054-42c5-57ee-80f5-142ea3ed9d84,chr2:g.208248388C>T
+b6951c37-377e-49b9-862c-968082e8682f,male,Alive,1979,,10422,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,70311bc6-9c1f-5d49-994c-3562b0d9b2a7,chr2:g.208248389G>T
+eb42625e-fbbb-4bee-bbe9-315b3ca2138a,female,Alive,1961,,12764,,"Oligodendroglioma, NOS","Brain, NOS",not reported,TCGA-LGG,52378603-643d-5b09-83b4-bb666c275067,chr2:g.208248388C>T
+292cf158-dd47-44a1-912b-73626095a0f7,female,Dead,1968,2007,14205,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,c8016227-83f2-576a-a1dd-31419e656e5b,chr2:g.208248388C>T
+284680b2-f961-402d-8740-e5f9e4fb4a98,female,Alive,1977,,13453,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,4387211c-1718-57ad-bb0e-6a9dfa66ac95,chr2:g.208248388C>T
+e695b780-17f4-4e71-9120-7c6bcafaa3a7,male,Dead,1952,2000,16695,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,958694da-f66e-5d0a-be73-e57e33ca69ce,chr2:g.208248388C>T
+02194c0c-e2c1-4ea7-994a-07b61b2575e2,female,Alive,1979,,11118,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,fa783987-80f7-58cc-851b-f3a0add85743,chr2:g.208248388C>T
+72aa812d-5daa-4bd7-9028-ec541b1f25bd,male,Alive,1959,,19149,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,a279716b-5289-553a-8e41-3c2243dab7c9,chr2:g.208248388C>T
+65836b59-b469-4b89-adf5-e65735e494f5,male,Alive,1965,,14716,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,6b9b8845-4594-569a-b946-23966c25fd8b,chr2:g.208248388C>T
+3baa0015-885c-487a-9076-236f404feb3e,female,Alive,1972,,12809,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,e43695d4-a6ec-5073-a9c5-563d407ae1ff,chr2:g.208248388C>T
+834e560a-a506-456d-baf2-a206ca058153,female,Dead,1943,2002,21199,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,67a6ab89-703f-5238-85c8-a48fa1ba8d91,chr2:g.208248388C>T
+0f0d9a7f-dd85-48aa-b5b2-deff5bb6bdeb,male,Alive,1980,,11357,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,76f8b08a-01f3-5d3b-a48b-2c5bba9a15d7,chr2:g.208248388C>T
+735b1100-07f6-43d4-b29c-46d0f025573f,male,Alive,1969,,16202,,"Astrocytoma, NOS","Brain, NOS",not reported,TCGA-LGG,0430d90d-04bf-57f6-8663-5cdd509189b3,chr2:g.208248388C>T
+49967a57-7c12-46bb-8d71-cebbb17c9935,female,Alive,1966,,16460,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,2c6f4f6c-bc84-5ab2-8365-d1f94cede89e,chr2:g.208248388C>T
+e2b1d161-d8cc-4eba-87ac-9449c6cd2977,female,Alive,1974,,14187,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,13e3faf2-1a2e-5c4e-b24c-14cb83db6f6c,chr2:g.208248388C>T
+029b33b1-7ea9-4b77-a615-7eb0e3ebd5e7,male,Alive,1981,,11252,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,e824401e-5c60-50ac-877d-5639c499bf75,chr2:g.208248388C>T
+b297c4dc-ec58-4392-908a-586e81d57ef0,female,Alive,1972,,14592,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,91627eca-1c2a-5dee-ab52-8216f3dae8a9,chr2:g.208248388C>T
+a6ee311c-0a7b-4f47-86f1-f2164b128f9c,female,Dead,1938,2004,22837,,"Astrocytoma, anaplastic","Brain, NOS",not reported,TCGA-LGG,926331a9-42df-587f-b06b-3b201b84e602,chr2:g.208248388C>T
+f4a1fc14-0d32-4e77-a8a3-fd8fea82188a,male,Alive,1957,,19944,,"Oligodendroglioma, NOS","Brain, NOS",not reported,TCGA-LGG,70ff632d-13e6-50a3-8c9d-78d26ff20464,chr2:g.208248388C>T
+a96fabfa-e830-476a-b2a1-899689570bd9,male,Alive,1967,,16137,,"Astrocytoma, anaplastic","Brain, NOS",not reported,TCGA-LGG,ebf155f1-487e-559c-aa2a-202c29b5f197,chr2:g.208248389G>A
+61ff31a4-4fdc-476c-b456-2a2fed4bae6b,male,Alive,1972,,14660,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,0325b65a-29c7-5b67-910b-178df7399155,chr2:g.208248388C>T
+0639b753-4099-4ca4-adb9-763069a614ef,female,Alive,1970,,15513,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,291ccc0b-2ce9-51e0-bcd0-6c67e4a4da8a,chr2:g.208248388C>T
+45b6d41b-3a1b-47e9-80e4-59355170aee7,male,Alive,1946,,22302,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,c4ec8ebf-07c7-5628-bcdb-3bbff1342649,chr2:g.208248388C>T
+84ae73e4-3b39-4444-9bfb-3fc6057eab32,male,Dead,1953,2008,19644,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,02cde72f-7c83-5d5e-8a64-0d08157d7e65,chr2:g.208248388C>T
+d766c3af-f0b3-4791-a754-d6546d370f8f,male,Alive,1957,,20041,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,94f4c2fe-30e4-5c27-acf3-1da424b9d851,chr2:g.208248388C>T
+9cd3b3c6-2268-4e43-964b-b7a4daf6fc6f,female,Alive,1939,,27084,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,12a31638-e462-523b-adc3-cb115464719b,chr2:g.208248388C>T
+bb4a30d5-4eba-45db-b05a-bd843044d508,male,Dead,1957,2010,19236,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,43273f32-dfe8-505d-9903-e92c09b76756,chr2:g.208248388C>T
+38f4b9f3-6709-40ff-9a81-5fa2111b1ce6,male,Alive,1949,,22948,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,37a3f2ad-dfb0-5bdc-87d6-2dbf5adb2d72,chr2:g.208248388C>T
+ea31c705-4cf8-48f5-8d13-e43563213c91,female,Alive,1969,,16106,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,361a3209-a377-52aa-9821-848ec0e1aa7f,chr2:g.208248388C>T
+c35f36b1-ba3d-4eea-bf5a-c95480202176,male,Alive,1941,,24800,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,a30cc614-a123-5db4-9ec1-9655143f4152,chr2:g.208248388C>T
+58c82c76-9198-4c95-80f8-c043d1cea5eb,female,Alive,1943,,25262,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,e973096d-c668-54ae-a02d-55d5bc74ca57,chr2:g.208248388C>T
+a6975eb0-cfa6-4b7a-bbe4-72bbdd3d3b6f,male,Alive,1979,,10108,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,b6ee26a1-ffa5-5273-a477-817f9cb89d76,chr2:g.208248388C>T
+275cb949-2f61-48c9-84f0-ba8ae4fa35c4,male,Alive,1973,,14171,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,0771fc6b-e44f-51e6-9e5a-6dcdc2a41a97,chr2:g.208248388C>T
+66990a9d-8c40-4c56-b931-5c3826c3bc27,male,Alive,1992,,7389,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,336264cf-8bf2-515c-a493-89c5103f9c04,chr2:g.208248389G>A
+edbf86e5-3f55-4ddf-a97f-3e9dc607e53d,female,Alive,1968,,16277,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,41839843-467d-5578-bf64-89f748a1ab03,chr2:g.208248388C>T
+bfbc0d1e-2a0b-4c60-8a37-91e3ce4b79ee,male,Alive,1973,,12607,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,cda0d47b-3f1d-56e1-83d6-b211bce55d67,chr2:g.208248388C>T
+6b0f4d36-78bb-4afc-a440-8c193bd4e8ce,female,Alive,1974,,16133,,Glioblastoma,"Brain, NOS",Not Reported,CPTAC-3,60fc5c17-7e29-5e66-b761-dff850bc1e8e,chr2:g.208243461G>A
+827453a9-7388-4336-9ac5-4defcb904607,female,Alive,1972,,13208,,Glioblastoma,"Brain, NOS",not reported,TCGA-GBM,c4323cdd-dbf5-562f-9a5d-4210087ecd8a,chr2:g.208248388C>T
+9351b1ae-89e6-4091-934f-d50da06cd01d,female,Alive,1980,,11295,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,9b068cc8-1af7-5cc8-b37a-a087906c4f28,chr2:g.208248388C>T
+7740824e-905f-47a0-b235-54561ef58ba3,male,Alive,1950,,21844,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,5080feb3-ba86-52b9-80d1-84c5ddcad1e6,chr2:g.208248388C>T
+c13bac88-c85b-4ee3-a51c-fd503cd7e726,female,Alive,1961,,18857,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,7693df27-4eb0-5499-a5a0-a713af5f815c,chr2:g.208248388C>T
+0d5a4c63-c3fb-4295-a433-d90cdbfc4ed6,male,Alive,1950,,21979,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,294cd7d3-8586-5724-9716-7d67338fd5a1,chr2:g.208248388C>T
+f9052682-b689-4696-9ab9-3f55976b43ee,male,Alive,1993,,6994,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,b56fb6b4-a4a0-5712-bd84-b076911fa441,chr2:g.208248388C>T
+f6a81d81-7df4-4273-8a86-e0cd3b8b1df5,female,Dead,1971,2004,12402,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,64615dd9-4635-577f-99c5-bcbd11cdbba6,chr2:g.208248388C>T
+e78e8845-9fba-48ba-8cf3-418429ea5f56,male,Alive,1980,,10673,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,c1c8cef2-baca-59a0-a385-7007b13c4c8c,chr2:g.208248388C>T
+4c3e709a-fd52-431c-8be5-3d9b1f80ecd2,male,Alive,1975,,13216,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,ded07738-3a8d-5a5e-b820-1b555ef79cda,chr2:g.208248388C>T
+c85fa637-941a-4a9a-8029-f5b44f3da430,female,Alive,1976,,13396,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,e4390e54-fef2-561a-b3c3-56d2581d55bd,chr2:g.208248388C>T
+019c5de9-74fd-48b7-95a3-227532e16c5a,male,Alive,1953,,18443,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,0471978b-9658-56b0-9372-3eb16026f43b,chr2:g.208248389G>T
+3c6dc0eb-e94b-4293-b665-f3cba04fc8de,female,Alive,1979,,12757,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,83dab0e1-b427-5bfe-8401-94647366f5a5,chr2:g.208248388C>T
+1ebdabea-8931-47af-a1cf-de1bd1de2a5b,female,Alive,1956,,19432,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,ff6669aa-4a21-531d-b15d-5bb076c367af,chr2:g.208248388C>T
+cd50aea8-a5db-48d3-ad28-cbe9f9e75ae3,male,Alive,1977,,13424,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,f9f6789e-67d4-571c-a3ae-f14627874485,chr2:g.208248388C>T
+baaddd76-277f-4c90-9cc2-0fece30c9735,female,Alive,1976,,13597,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,cc703124-2013-555a-9c2d-1f9494d2c0dd,chr2:g.208248388C>T
+4bd8ebc1-6f6e-44a2-8544-106901a7bae5,male,Alive,1961,,18791,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,31da0baa-74e0-5fa9-8118-8eddfb3aa2a9,chr2:g.208248389G>T
+da40e6d3-a2a9-4517-aaa2-aef6c3892ebf,female,Alive,1964,,18199,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,1ba6a482-193a-53ab-b2a2-348e5201e6e9,chr2:g.208248388C>T
+739cc9f1-71be-4f81-a5d1-eda673903e45,female,Alive,1966,,16911,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,6167d86e-e58e-5113-9890-cc0faf6538f0,chr2:g.208248388C>T
+b60fce04-9779-42c0-8161-d29d8a1d7c64,male,Alive,1986,,10184,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,020d6d44-7201-55e3-858f-5d314ddc6e47,chr2:g.208248388C>T
+784ecaa5-7fb8-402a-8240-396aad96be83,male,Alive,1979,,12578,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,8e12197a-0903-5dec-b9e1-e3dd74dd517e,chr2:g.208248388C>T
+5b9d7565-a933-449d-8ffa-ec5f82db2e77,male,Alive,1986,,9228,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,a41521b7-9d57-5467-9583-cbbe1731e610,chr2:g.208248388C>T
+15a6ad18-a81c-4f5b-80ae-ef56ccf722f9,male,Alive,1945,,22342,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,a17b5cdd-f7dd-5b0e-860d-11d2c593b37c,chr2:g.208248388C>T
+872a12b4-8cbd-49d2-ac98-d846587f5794,female,Alive,1976,,13606,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,3f268cd6-2c69-58db-869c-82d367c7fbfe,chr2:g.208248388C>T
+442df188-b678-45bb-bd9d-7071ed8aaa5a,male,Alive,1987,,9590,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,c29dbf4e-8e63-5fb9-bcaa-af705aa7dd52,chr2:g.208248388C>T
+6957d45e-7ccb-457d-800d-c2a2037f4f01,male,Dead,1973,,14201,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,14b88700-a2a7-5332-a126-571cf93a0bf8,chr2:g.208248388C>T
+86aa5790-9afd-4653-926a-625516df1f56,female,Alive,1967,,16280,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,14185e88-fdc5-5561-854e-27b53d3917a2,chr2:g.208248388C>T
+dcd45077-f068-490b-bdcc-4d4a62285116,female,Alive,1969,,15431,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,9dba6b31-0311-5137-a551-8c5733c457c5,chr2:g.208248388C>T
+cb1e9916-c03f-405a-a797-15823df09c8e,male,Alive,1958,,19156,,"Astrocytoma, anaplastic",Cerebrum,not reported,TCGA-LGG,4a974601-c5e5-563a-990b-938a63165449,chr2:g.208248388C>T
+fb6437f9-ade8-4c33-a0d0-ceacb2bf784d,male,Alive,1973,,13990,,"Astrocytoma, anaplastic",Occipital lobe,not reported,TCGA-LGG,2d9150c4-86a7-5045-8435-1337e2301e23,chr2:g.208248388C>T
+d61710c1-8ac3-44e3-b567-66288a6ab731,male,Dead,1965,2009,15931,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,4f8d1714-f22b-5283-bba8-180240acf8fc,chr2:g.208248389G>C
+5119aceb-ad95-4904-b6c0-a0a4b42c17d0,male,Alive,1953,,19185,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,TCGA-LGG,1e665383-fe0d-5f33-a802-9889a49d6a47,chr2:g.208248388C>T
+0db80dff-5586-4d9f-b253-df82e6fd6901,male,Alive,1977,,12845,,"Astrocytoma, NOS",Cerebrum,not reported,TCGA-LGG,8c09e489-3b1e-59ac-b757-9f06d8e33ead,chr2:g.208248388C>T
+1ca2e1b3-e3eb-4740-a69a-800e3eb60787,female,Alive,1940,,26992,,"Oligodendroglioma, NOS",Cerebrum,not reported,TCGA-LGG,6e739849-0605-58fc-a0fd-16f4aa5eb407,chr2:g.208248388C>T
+ed833be3-0e9b-4c9b-b6d5-1098f08265a0,female,Alive,1955,,21239,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,ac516af9-663d-53ed-ba9e-e355bdab271e,chr2:g.208248388C>T
+f878bf8d-70eb-4b74-bf74-bdf63cb9bfae,male,Dead,1978,2012,11804,,Mixed glioma,Cerebrum,not reported,TCGA-LGG,d84f9538-215a-5b21-aba2-f7c0f0e3d2f7,chr2:g.208248388C>T

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "data_format": "BCR Biotab", 
+    "access": "open", 
+    "file_name": "nationwidechildrens.org_clinical_patient_lgg.txt", 
+    "submitter_id": "nationwidechildrens.org_clinical_patient_lgg.txt", 
+    "data_category": "Clinical", 
+    "acl": [
+      "open"
+    ], 
+    "type": "clinical_supplement", 
+    "file_size": 351218, 
+    "created_datetime": "2018-05-21T22:14:34.066432-05:00", 
+    "md5sum": "00dcd9b02d7bdc39909d4b05072a53fa", 
+    "updated_datetime": "2018-11-01T15:06:10.843096-05:00", 
+    "file_id": "f3a1bc62-9552-4553-b318-7d9c21d21ce7", 
+    "data_type": "Clinical Supplement", 
+    "state": "released", 
+    "version": "1", 
+    "data_release": "12.0 - 37.0"
+  }, 
+  "warnings": {}
+}
