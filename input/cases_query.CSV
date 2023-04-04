@@ -1,4 +1,13 @@
 case_id,demographic.gender,demographic.vital_status,demographic.year_of_birth,demographic.year_of_death,diagnoses.0.age_at_diagnosis,diagnoses.0.days_to_recurrence,diagnoses.0.primary_diagnosis,diagnoses.0.site_of_resection_or_biopsy,diagnoses.0.tumor_grade,id,project.project_id,summary.file_count
+6ca730eb-4b20-4b2b-9c8c-17da5b2ae382,male,Alive,1939,,28387,,Glioblastoma,Frontal lobe,Not Reported,6ca730eb-4b20-4b2b-9c8c-17da5b2ae382,CPTAC-3,39
+3a58efbf-2708-4f13-87ab-253d7d67ef52,female,Alive,1968,,17813,,Glioblastoma,"Brain, NOS",Not Reported,3a58efbf-2708-4f13-87ab-253d7d67ef52,CPTAC-3,45
+9b84c1a2-d24d-4085-b597-eff3d2203756,female,Dead,1947,2019,25423,,Glioblastoma,Temporal lobe,Not Reported,9b84c1a2-d24d-4085-b597-eff3d2203756,CPTAC-3,39
+d00a5d22-92b1-445b-83eb-73409012528f,male,Dead,1969,2018,17508,,Glioblastoma,"Brain, NOS",Not Reported,d00a5d22-92b1-445b-83eb-73409012528f,CPTAC-3,39
+d61e6cdb-82b0-46f8-bc18-71e337ae305c,female,Dead,1960,2018,20944,,Glioblastoma,Frontal lobe,Not Reported,d61e6cdb-82b0-46f8-bc18-71e337ae305c,CPTAC-3,39
+d86c3d4a-861b-4211-9bcd-c9669fcc480b,female,Dead,1942,2018,27394,,Glioblastoma,Temporal lobe,Not Reported,d86c3d4a-861b-4211-9bcd-c9669fcc480b,CPTAC-3,39
+aa7502a9-5ffe-48c1-a1a8-3b07e83f78d7,male,Dead,1980,2018,13569,555.0,Glioblastoma,"Brain, NOS",Not Reported,aa7502a9-5ffe-48c1-a1a8-3b07e83f78d7,CPTAC-3,45
+ab61f8ca-638c-4f04-bf0f-9dc5559b8fec,female,Alive,1977,,14593,,Glioblastoma,"Brain, NOS",Not Reported,ab61f8ca-638c-4f04-bf0f-9dc5559b8fec,CPTAC-3,39
+82cb0e8b-584d-422f-a00d-81dc5892c406,male,Dead,1947,2019,25753,,Glioblastoma,Frontal lobe,Not Reported,82cb0e8b-584d-422f-a00d-81dc5892c406,CPTAC-3,39
 cf29547a-305b-4e6e-8342-36aac0850065,male,Dead,1947,,24252,,"Astrocytoma, NOS",Cerebrum,not reported,cf29547a-305b-4e6e-8342-36aac0850065,TCGA-LGG,64
 0061e9ef-df6a-414e-af64-c88f8192e2d3,male,Dead,1963,2005,11332,,"Oligodendroglioma, anaplastic","Brain, NOS",not reported,0061e9ef-df6a-414e-af64-c88f8192e2d3,TCGA-LGG,64
 cfcd3835-bb09-400e-b7eb-55ac139d01f8,male,Alive,1963,,18193,,"Oligodendroglioma, NOS",Cerebrum,not reported,cfcd3835-bb09-400e-b7eb-55ac139d01f8,TCGA-LGG,64
@@ -490,12 +499,3 @@ b95afb1a-a1df-4d85-ad34-191928e28a77,female,Alive,1953,,21106,,"Astrocytoma, ana
 b9a3b647-61b3-4d98-90ca-e307ab50984a,female,Dead,1946,2010,23064,,Mixed glioma,Cerebrum,not reported,b9a3b647-61b3-4d98-90ca-e307ab50984a,TCGA-LGG,64
 b9e2f4d1-866c-4c62-a9c8-8de7eb364a6e,male,Dead,1981,,11097,,"Oligodendroglioma, anaplastic",Cerebrum,not reported,b9e2f4d1-866c-4c62-a9c8-8de7eb364a6e,TCGA-LGG,65
 ba62b5eb-e169-4b41-b949-e004d66e98a1,female,Alive,1977,,13338,,"Astrocytoma, anaplastic",Cerebrum,not reported,ba62b5eb-e169-4b41-b949-e004d66e98a1,TCGA-LGG,63
-ba910760-ebb5-41ba-81a1-c5355e3d3087,male,Alive,1958,,20394,,"Astrocytoma, anaplastic",Cerebrum,not reported,ba910760-ebb5-41ba-81a1-c5355e3d3087,TCGA-LGG,64
-baaddd76-277f-4c90-9cc2-0fece30c9735,female,Alive,1976,,13597,,"Oligodendroglioma, NOS",Cerebrum,not reported,baaddd76-277f-4c90-9cc2-0fece30c9735,TCGA-LGG,64
-bae316e3-1fa4-4fa7-8ad6-a458857a85d4,male,Alive,1957,,19555,,"Astrocytoma, anaplastic",Cerebrum,not reported,bae316e3-1fa4-4fa7-8ad6-a458857a85d4,TCGA-LGG,65
-bb4a30d5-4eba-45db-b05a-bd843044d508,male,Dead,1957,2010,19236,,"Astrocytoma, anaplastic",Cerebrum,not reported,bb4a30d5-4eba-45db-b05a-bd843044d508,TCGA-LGG,63
-bbfb5399-8d43-4b75-bf90-23ec142697d7,male,Alive,1970,,13371,,Mixed glioma,Cerebrum,not reported,bbfb5399-8d43-4b75-bf90-23ec142697d7,TCGA-LGG,64
-bc3b4816-df1d-44ed-a8c6-f32c8e011a1f,female,Dead,1977,,12557,,"Astrocytoma, anaplastic",Cerebrum,not reported,bc3b4816-df1d-44ed-a8c6-f32c8e011a1f,TCGA-LGG,65
-bc66f21c-7ae6-4312-b6c1-ea3e19f90485,,,,,,,,,,bc66f21c-7ae6-4312-b6c1-ea3e19f90485,TCGA-LGG,63
-bc6fbb3c-870d-40b5-983b-7c88705e020d,male,Dead,1953,2009,20180,,"Astrocytoma, anaplastic",Cerebrum,not reported,bc6fbb3c-870d-40b5-983b-7c88705e020d,TCGA-LGG,64
-bcc17e9a-6fe3-44ff-963c-d2d850a431f1,female,Dead,1947,2011,23180,,"Astrocytoma, anaplastic",Cerebrum,not reported,bcc17e9a-6fe3-44ff-963c-d2d850a431f1,TCGA-LGG,65
